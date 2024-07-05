@@ -1,0 +1,5 @@
+{
+  "files.exclude": {
+    ".deno_lsp": false
+  }
+}
